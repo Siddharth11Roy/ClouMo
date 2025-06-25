@@ -1,12 +1,12 @@
 RUN BACKEND - 
 
-cd backend
+-cd backend
 
-venv/scripts/activate ( create one if not there )
+-venv/scripts/activate ( create one if not there )
 
-pip install -r requirements.txt
+-pip install -r requirements.txt
 
-python run.py
+-python run.py
 
 
 
